@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spingarr">
+        <item>入门</item>
+        <item>简单</item>
+        <item>困难</item>
+        <item>极难</item>
+    </string-array>
+    <integer-array name="spingarrvalue">
+        <item>10</item>
+        <item>8</item>
+        <item>6</item>
+        <item>4</item>
+    </integer-array>
+</resources>
